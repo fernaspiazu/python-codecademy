@@ -1,2 +1,2 @@
 # python-codecademy
-Python course
+Python course @Codecademy
